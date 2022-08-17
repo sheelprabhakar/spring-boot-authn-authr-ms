@@ -1,7 +1,7 @@
 package com.c4c.authn.core.service.impl;
 
-import com.c4c.authn.core.repository.UsersRepository;
-import com.c4c.authn.core.repository.dao.UserDO;
+import com.c4c.authn.core.repository.db.UsersRepository;
+import com.c4c.authn.core.repository.db.dao.UserDO;
 import com.c4c.authn.core.service.api.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

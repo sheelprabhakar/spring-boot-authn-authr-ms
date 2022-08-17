@@ -1,6 +1,6 @@
 package com.c4c.authn.core.service.api;
 
-import com.c4c.authn.core.repository.dao.UserDO;
+import com.c4c.authn.core.repository.db.dao.UserDO;
 
 import java.util.List;
 
